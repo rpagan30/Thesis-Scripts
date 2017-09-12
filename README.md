@@ -19,4 +19,4 @@ In this repository you will find the following folders and corresponding scripts
  -- submit.sh  
  -- wrapper.sh  
  
- FOr questions or comments please write to rpagan30@gmail.com.
+ For questions or comments please write to rpagan30@gmail.com.
