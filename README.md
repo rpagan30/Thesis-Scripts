@@ -1,4 +1,4 @@
-# Thesis-Scripts  
+# Thesis Scripts  
 
 The main purpose of this repository is to document all of the scripts written and/or used by myself for my masters thesis, "Dynamics of protein networks exhibiting complex behavior". My mentors were Steven Massey - Dept. of Biology, Julian Velev - Dept. of Physics, and Lhutful Bari Bhuiyan - Dept. of Physics all from the University of Puerto Rico, Rio Piedras Campus.  
 
